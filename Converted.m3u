@@ -1,0 +1,946 @@
+#EXTM3U
+#EXTINF:0 tvg-id="BBC1London.uk" group-title="Channels",BBC One London
+http://epsilon-c2.liux.tv/en-BBCOneLon/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="Channels",BBC One HD
+http://epsilon-c2.liux.tv/en-BBCOneHD/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBC Two London
+http://epsilon-c2.liux.tv/en-BBCTwoEng/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="BBC2.uk" group-title="Channels",BBC Two HD
+http://epsilon-c2.liux.tv/en-BBCTwoHD/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="BBC4.uk" group-title="Channels",BBC Four
+http://epsilon-c2.liux.tv/en-BBCFour/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="BBC4.uk" group-title="Channels",BBC 4 HD
+http://epsilon-c2.liux.tv/en-BBC4HD/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="BBCNews.nws" group-title="Channels",BBC News
+http://epsilon-c2.liux.tv/en-BBCNEWS/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="BBCNews.nws" group-title="Channels",BBC News HD
+http://epsilon-c2.liux.tv/en-BBCNewsHD/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="RTE1.ie" group-title="Channels",RTÉ One
+http://epsilon-c2.liux.tv/en-RTEOne/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="RTE1.ie" group-title="Channels",RTÉ One HD
+http://epsilon-c2.liux.tv/en-rte1-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="RTE2.ie" group-title="Channels",RTÉ Two
+http://epsilon-c2.liux.tv/en-RTE2/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="RTE2.ie" group-title="Channels",RTÉ Two HD
+http://epsilon-c2.liux.tv/en-rte2-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="impact" group-title="Channels",ITV
+http://epsilon-c2.liux.tv/en-ITV/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ITV1London.uk" group-title="Channels",ITV HD
+http://epsilon-c2.liux.tv/en-ItvHD/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ITV2.uk" group-title="Channels",ITV 2
+http://epsilon-c2.liux.tv/en-ITV2/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ITV2.uk" group-title="Channels",ITV 2 HD
+http://epsilon-c2.liux.tv/en-ITV2HD/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ITV3.uk" group-title="Channels",ITV 3
+http://epsilon-c2.liux.tv/en-ITV3/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ITV3.uk" group-title="Channels",ITV 3 HD
+http://epsilon-c2.liux.tv/en-ITV3HD/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ITV4.uk" group-title="Channels",ITV 4
+http://epsilon-c2.liux.tv/en-ITV4/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ITV4.uk" group-title="Channels",ITV 4 HD
+http://epsilon-c2.liux.tv/en-ITV4HD/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ITVEncore.uk" group-title="Channels",ITV Encore
+http://epsilon-c2.liux.tv/en-ITVEncore/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ITVBe.uk" group-title="Channels",ITVBe
+http://epsilon-c2.liux.tv/en-ITVBe/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="Channel4.uk" group-title="Channels",Channel 4
+http://epsilon-c2.liux.tv/en-Channel4/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="Channel4.uk" group-title="Channels",Channel 4 HD
+http://epsilon-c2.liux.tv/en-Channel4HD/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="5kanal" group-title="Channels",Channel 5
+http://epsilon-c2.liux.tv/en-Channel5/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="Channel5.uk" group-title="Channels",Channel 5 HD
+http://epsilon-c2.liux.tv/en-Channel5HD/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="tv3" group-title="Channels",TV3
+http://epsilon-c2.liux.tv/en-TV3/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="TG4.ie" group-title="Channels",TG4
+http://epsilon-c2.liux.tv/en-TG4/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="3e.ie" group-title="Channels",3e
+http://epsilon-c2.liux.tv/en-3e/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="be3.uk" group-title="Channels",Be3
+http://epsilon-c2.liux.tv/en-be3/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="Sky1.uk" group-title="Channels",Sky 1
+http://epsilon-c2.liux.tv/en-Sky1/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="Sky2.uk" group-title="Channels",Sky 2
+http://epsilon-c2.liux.tv/en-Sky2/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="5star.uk" group-title="Channels",5 Star
+http://epsilon-c2.liux.tv/en-5Star/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="E4.uk" group-title="Channels",E4
+http://epsilon-c2.liux.tv/en-E4/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="More4.uk" group-title="Channels",More 4
+http://epsilon-c2.liux.tv/en-More4/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="My5.uk" group-title="Channels",My 5
+http://epsilon-c2.liux.tv/en-My5/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="FiveUSA.uk" group-title="Channels",5 USA
+http://epsilon-c2.liux.tv/en-5usa/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="E.uk" group-title="Channels",E!
+http://epsilon-c2.liux.tv/en-E/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="SkyArts1.uk" group-title="Channels",Sky Arts
+http://epsilon-c2.liux.tv/en-SkyArts/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="SkyNews.uk" group-title="Channels",Sky News
+http://epsilon-c2.liux.tv/en-SkyNews/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="cnn" group-title="Channels",CNN HD
+http://epsilon-c2.liux.tv/en-CNN-HD/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="bloomberg" group-title="Channels",Bloomberg
+http://epsilon-c2.liux.tv/en-Bloomberg/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="FOXNews.uk" group-title="Channels",Fox News
+http://epsilon-c2.liux.tv/en-FOXNews/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="russia-today" group-title="Channels",RT HD
+http://epsilon-c2.liux.tv/en-RTHD/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="RTENewsNow.ie" group-title="Channels",RTÉ News Now
+http://epsilon-c2.liux.tv/en-RTENewsNow/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="SkyCinemaHits.uk" group-title="Channels",Sky Hits
+http://epsilon-c2.liux.tv/en-SkyHits/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="SkyMoviesPremiere.uk" group-title="Channels",Sky Premiere
+http://epsilon-c2.liux.tv/en-SkyPremiere/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="SkyMoviesActionThriller.uk" group-title="Channels",Sky Action
+http://epsilon-c2.liux.tv/en-SkyAction/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="SkyMoviesComedy.uk" group-title="Channels",Sky Comedy
+http://epsilon-c2.liux.tv/en-SkyComedy/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="SkyMoviesFamily.uk" group-title="Channels",Sky Family
+http://epsilon-c2.liux.tv/en-SkyFamily/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Crime Thriller
+http://epsilon-c2.liux.tv/en-SkyThriller/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sci Fi
+http://epsilon-c2.liux.tv/en-sky-sci-fi/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="SkyMoviesDisney.uk" group-title="Channels",Sky Disney
+http://epsilon-c2.liux.tv/en-SkyDisney/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="SkyMoviesIndie.uk" group-title="Channels",Sky Select
+http://epsilon-c2.liux.tv/en-SkySelect/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="SkyBrits.uk" group-title="Channels",Sky Modern Greats
+http://epsilon-c2.liux.tv/en-sky-modern-greats/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="SkyMoviesDrama.uk" group-title="Channels",Sky Drama
+http://epsilon-c2.liux.tv/en-SkyDrama/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="SkyAtlantic.uk" group-title="Channels",Sky Atlantic
+http://epsilon-c2.liux.tv/en-SkyAtlantic/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="Movies4Men.uk" group-title="Channels",Movies 4 Men
+http://epsilon-c2.liux.tv/en-movies4men/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="TrueMovies2.uk" group-title="Channels",True Movies 2
+http://epsilon-c2.liux.tv/en-TrueMovies2/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="TrueDrama.uk" group-title="Channels",True Drama
+http://epsilon-c2.liux.tv/en-TrueDrama/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="TrueEntertainment.uk" group-title="Channels",True Ent.
+http://epsilon-c2.liux.tv/en-TrueEnt/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",Syfy
+http://epsilon-c2.liux.tv/en-Syfy/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="HorrorChannel.uk" group-title="Channels",Horror Channel
+http://epsilon-c2.liux.tv/en-HorrorChannel/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Channels",Comedy Central
+http://epsilon-c2.liux.tv/en-ComedyCentral/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ComedyCentralExtra.uk" group-title="Channels",Comedy Xtra
+http://epsilon-c2.liux.tv/en-ComedyXtra/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="fox-crime" group-title="Channels",FOX
+http://epsilon-c2.liux.tv/en-FOX/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="Film4.uk" group-title="Channels",Film 4
+http://epsilon-c2.liux.tv/en-Film4/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="Universal.uk" group-title="Channels",Universal
+http://epsilon-c2.liux.tv/en-Universal/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="Channels",Nickelodeon
+http://epsilon-c2.liux.tv/en-Nickelodeon/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="nick-jr" group-title="Channels",Nick Jr.
+http://epsilon-c2.liux.tv/en-NickJr/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="Nicktoons.uk" group-title="Channels",NickToons
+http://epsilon-c2.liux.tv/en-Nicktoons/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="disney" group-title="Channels",Disney Channel
+http://epsilon-c2.liux.tv/en-DisneyChnl/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Channels",Disney Jr.
+http://epsilon-c2.liux.tv/en-DisneyJunior/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="DisneyXD.uk" group-title="Channels",Disney XD
+http://epsilon-c2.liux.tv/en-DisneyXD/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="CITV.uk" group-title="Channels",CITV
+http://epsilon-c2.liux.tv/en-CITV/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="baby-tv" group-title="Channels",BabyTV
+http://epsilon-c2.liux.tv/en-BabyTV/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="RTEjr.uk" group-title="Channels",RTÉ Jr.
+http://epsilon-c2.liux.tv/en-RTEjr/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="CBBC.uk" group-title="Channels",CBBC
+http://epsilon-c2.liux.tv/en-CBBC/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="CBBC.uk" group-title="Channels",CBBC HD
+http://epsilon-c2.liux.tv/en-CBBCHD/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="CBeebies.uk" group-title="Channels",Cbeebies
+http://epsilon-c2.liux.tv/en-CbeebiesHD/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="CBeebies.uk" group-title="Channels",Cbeebies HD
+http://epsilon-c2.liux.tv/en-CbeebiesHD/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="pop.uk" group-title="Channels",POP
+http://epsilon-c2.liux.tv/en-POP/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="tinypop.uk" group-title="Channels",Tiny POP
+http://epsilon-c2.liux.tv/en-TinyPop/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="boomerang" group-title="Channels",Boomerang
+http://epsilon-c2.liux.tv/en-boomerang/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="cartoon" group-title="Channels",Cartoon Network
+http://epsilon-c2.liux.tv/en-cartoon-net/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="Cartoonito.uk" group-title="Channels",Cartoonito
+http://epsilon-c2.liux.tv/en-Cartoonito/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="natgeo" group-title="Channels",National Geographic
+http://epsilon-c2.liux.tv/en-NationalGeographic/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="natgeo_hd" group-title="Channels",National Geographic HD
+http://epsilon-c2.liux.tv/en-NatGeoHD/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="natgeowild" group-title="Channels",Nat Geo Wild
+http://epsilon-c2.liux.tv/en-NatGeoWild/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="animal_rus" group-title="Channels",Animal Planet
+http://epsilon-c2.liux.tv/en-AnimalPlanet/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="discov_rus" group-title="Channels",Discovery
+http://epsilon-c2.liux.tv/en-Discovery/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="discov_rus-hd" group-title="Channels",Discovery HD
+http://epsilon-c2.liux.tv/en-DiscoveryHD/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="discov_sci" group-title="Channels",Discovery Science
+http://epsilon-c2.liux.tv/en-DiscScience/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Channels",Discovery Turbo
+http://epsilon-c2.liux.tv/en-DiscTurbo/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="DiscoveryShed.uk" group-title="Channels",Discovery Shed
+http://epsilon-c2.liux.tv/en-DiscoveryShed/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="id-extra" group-title="Channels",ID
+http://epsilon-c2.liux.tv/en-ID/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="DiscoveryHistory.uk" group-title="Channels",Discovery History
+http://epsilon-c2.liux.tv/en-DiscHistory/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="CrimeAndInvestigationNetwork.uk" group-title="Channels",Crime Investigation
+http://epsilon-c2.liux.tv/en-CrimeInv/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="DiscoveryDMAX.uk" group-title="Channels",DMAX
+http://epsilon-c2.liux.tv/en-DMAX/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="tlc-russia" group-title="Channels",TLC
+http://epsilon-c2.liux.tv/en-TLC/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="history-rus" group-title="Channels",History
+http://epsilon-c2.liux.tv/en-History/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="history2-rus" group-title="Channels",H2
+http://epsilon-c2.liux.tv/en-H2/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="CBSAction.uk" group-title="Channels",CBS Action
+http://epsilon-c2.liux.tv/en-CBSAction/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="CBSReality.ru" group-title="Channels",CBS Reality
+http://epsilon-c2.liux.tv/en-CBS-Reality/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="CBSDrama.ru" group-title="Channels",CBS Drama
+http://epsilon-c2.liux.tv/en-CBS-Drama/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="RealLives.uk" group-title="Channels",Real Lives
+http://epsilon-c2.liux.tv/en-RealLives/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="Alibi.uk" group-title="Channels",Alibi
+http://epsilon-c2.liux.tv/en-Alibi/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="W.uk" group-title="Channels",Watch
+http://epsilon-c2.liux.tv/en-Watch/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="SkyLiving.uk" group-title="Channels",Sky Living
+http://epsilon-c2.liux.tv/en-SkyLiving/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="Challenge.uk" group-title="Channels",Challenge
+http://epsilon-c2.liux.tv/en-Challenge/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="GOLD.uk" group-title="Channels",GOLD
+http://epsilon-c2.liux.tv/en-GOLD/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="food-network-rus" group-title="Channels",Food Network
+http://epsilon-c2.liux.tv/en-FoodNetwork/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="travel" group-title="Channels",Travel Channel
+http://epsilon-c2.liux.tv/en-TravelChannel/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="spike" group-title="Channels",Spike
+http://epsilon-c2.liux.tv/en-Spike/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="Dave.uk" group-title="Channels",Dave
+http://epsilon-c2.liux.tv/en-dave/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="Viva.uk" group-title="Channels",Viva
+http://epsilon-c2.liux.tv/en-VivaUK/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="mtv-rus" group-title="Channels",MTV
+http://epsilon-c2.liux.tv/en-MTV/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="MTVBase.uk" group-title="Channels",MTV Base
+http://epsilon-c2.liux.tv/en-MTV-BASE/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="mtv-dance" group-title="Channels",MTV Dance
+http://epsilon-c2.liux.tv/en-MTV-DANCE/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="mtv-hits" group-title="Channels",MTV Hits
+http://epsilon-c2.liux.tv/en-MTV-HITS/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="MTVMusic.eu" group-title="Channels",MTV Music
+http://epsilon-c2.liux.tv/en-MTV-MUSIC/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="mtv-rocks" group-title="Channels",MTV Rocks
+http://epsilon-c2.liux.tv/en-MTV-ROCKS/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="vh1-europe" group-title="Channels",VH1
+http://epsilon-c2.liux.tv/en-VH1/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="esp" group-title="Channels",Eurosport 1
+http://epsilon-c2.liux.tv/en-Eurosport1/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="esp2" group-title="Channels",Eurosport 2
+http://epsilon-c2.liux.tv/en-Eurosport2/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Channels",Sky Sports 1
+http://epsilon-c2.liux.tv/en-SkySports1/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Channels",Sky Sports 1 HD
+http://epsilon-c2.liux.tv/en-SkySport1HD/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="SkySports2.uk" group-title="Channels",Sky Sports 2
+http://epsilon-c2.liux.tv/en-SkySports2/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="Channels",Sky Sports 2 HD
+http://epsilon-c2.liux.tv/en-SkySport2HD/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="SkySports3.uk" group-title="Channels",Sky Sports 3
+http://epsilon-c2.liux.tv/en-SkySports3/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="SkySpAction.uk" group-title="Channels",Sky Sports 3 HD
+http://epsilon-c2.liux.tv/en-SkySport3HD/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="SkySports4.uk" group-title="Channels",Sky Sports 4
+http://epsilon-c2.liux.tv/en-SkySports4/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="SkySports4.uk" group-title="Channels",Sky Sports 4 HD
+http://epsilon-c2.liux.tv/en-SkySport4HD/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="SkySports5.uk" group-title="Channels",Sky Sports 5
+http://epsilon-c2.liux.tv/en-SkySports5/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="SkySports5.uk" group-title="Channels",Sky Sports 5 HD
+http://epsilon-c2.liux.tv/en-SkySport5HD/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="SkySpFball.uk" group-title="Channels",Sky Sport Football HD
+http://epsilon-c2.liux.tv/en-SkySportFootballHD/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Channels",Sky Sport Arena HD
+http://epsilon-c2.liux.tv/en-SkySportArenaHD/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="Channels",Sky Sports F1
+http://epsilon-c2.liux.tv/en-SkySportsF1/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="SkySpMix.uk" group-title="Channels",Sky Sports Mix
+http://epsilon-c2.liux.tv/en-SkySportMix/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="Channels",Sky Sport News HQ
+http://epsilon-c2.liux.tv/en-SkySpNewsHQ/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="Channels",BT Sport 1
+http://epsilon-c2.liux.tv/en-bt-sport1/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="Channels",BT Sport 2
+http://epsilon-c2.liux.tv/en-bt-sport2/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="Channels",BT Sport 3
+http://epsilon-c2.liux.tv/en-bt-sport3/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="Channels",BT Sport ESPN
+http://epsilon-c2.liux.tv/en-BTSportESPN/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="eirSport1.ie" group-title="Channels",eir Sport 1
+http://epsilon-c2.liux.tv/en-eirSport1/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="eirSport2.ie" group-title="Channels",eir Sport 2 HD
+http://epsilon-c2.liux.tv/en-eirSport2HD/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="PremierSports.uk" group-title="Channels",Premier Sports
+http://epsilon-c2.liux.tv/en-premier-sport/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="PremierSports.uk" group-title="Channels",Premier Sports HD
+http://epsilon-c2.liux.tv/en-premier-sport-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="BoxNation.uk" group-title="Channels",Box Nation
+http://epsilon-c2.liux.tv/en-box-nation/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",Motors UK
+http://epsilon-c2.liux.tv/en-motors-uk/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="RacingUK.uk" group-title="Channels",Racing UK
+http://epsilon-c2.liux.tv/en-racing-uk/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="AtTheRaces.uk" group-title="Channels",At The Races
+http://epsilon-c2.liux.tv/en-AtTheRaces/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="NBA.blt" group-title="Channels",NBA
+http://epsilon-c2.liux.tv/en-NBA/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="MUTV.uk" group-title="Channels",MUTV
+http://epsilon-c2.liux.tv/en-MUTV/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="MUTV.uk" group-title="Channels",MUTV HD
+http://epsilon-c2.liux.tv/en-MUTVHD/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="LiverpoolFCTV.uk" group-title="Channels",LFC TV
+http://epsilon-c2.liux.tv/en-lfc-tv/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ChelseaTV.uk" group-title="Channels",Chelsea TV
+http://epsilon-c2.liux.tv/en-ChelseaTV/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="FoxSports.it" group-title="Channels",Fox Sport
+http://epsilon-c2.liux.tv/en-fox-sport/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Channels",H&H
+http://epsilon-c2.liux.tv/en-HomeHealth/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="Quest.uk" group-title="Channels",Quest
+http://epsilon-c2.liux.tv/en-QUEST/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="SONYSAB.uk" group-title="Channels",Sony SAB
+http://epsilon-c2.liux.tv/en-SONYSAB/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",AND tv HD
+http://epsilon-c2.liux.tv/en-ANDtvHD/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="TruTV.uk" group-title="Channels",tru TV
+http://epsilon-c2.liux.tv/en-truTV/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="cnbc" group-title="Channels",CNBC
+http://epsilon-c2.liux.tv/en-CNBC/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="vintage" group-title="Channels",Vintage TV
+http://epsilon-c2.liux.tv/en-VintageTV/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="SportsnetWorld.ca" group-title="Channels",Sports Net World
+http://epsilon-c2.liux.tv/en-SportsNetWorld/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="SportsNetOne.ca" group-title="Channels",Sports Net One
+http://epsilon-c2.liux.tv/en-SportsNetOne/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="SportsNetOntario.ca" group-title="Channels",Sports Net Ontario
+http://epsilon-c2.liux.tv/en-SportsNetOntario/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Arena 1
+http://epsilon-c2.liux.tv/sport-arena1/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Arena 2
+http://epsilon-c2.liux.tv/sport-arena2/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Arena 3
+http://epsilon-c2.liux.tv/sport-arena3/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Arena 4
+http://epsilon-c2.liux.tv/sport-arena4/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Arena 5
+http://epsilon-c2.liux.tv/sport-arena5/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",beIN Sports 1
+http://epsilon-c2.liux.tv/en-beinsport1/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",beIN Sports 2
+http://epsilon-c2.liux.tv/en-beinsport2/mpegts?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",beIN Sports 3
+http://epsilon-c2.liux.tv/en-beinsport3/mpegts?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",beIN Sports 4
+http://epsilon-c2.liux.tv/en-beinsport4/mpegts?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",beIN Sports 5
+http://epsilon-c2.liux.tv/en-beinsport5/mpegts?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Channels",beIN Sports 6
+http://epsilon-c2.liux.tv/en-beinsport6/mpegts?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",beIN Sports 7
+http://epsilon-c2.liux.tv/en-beinsport7/mpegts?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="Channels",beIN Sports 8
+http://epsilon-c2.liux.tv/en-beinsport8/mpegts?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="Channels",beIN Sports 9
+http://epsilon-c2.liux.tv/en-beinsport9/mpegts?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="bein10hd.jsc" group-title="Channels",beIN Sports 10
+http://epsilon-c2.liux.tv/en-beinsport10/mpegts?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="bein11hd.jsc" group-title="Channels",beIN Sports 11
+http://epsilon-c2.liux.tv/en-beinsport11/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="bein12hd.jsc" group-title="Channels",beIN Sports 12
+http://epsilon-c2.liux.tv/en-beinsport12/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ort" group-title="Channels",Первый Канал
+http://epsilon-c1.liux.tv/ru-pervyj/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ort-hd" group-title="Channels",Первый канал HD
+http://epsilon-c1.liux.tv/ru-pervyj-hd/index.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="1tv-lt" group-title="Channels",Первый Балтийский
+http://epsilon-c1.liux.tv/ru-pervyj-balt/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="rtr" group-title="Channels",Россия 1
+http://epsilon-c1.liux.tv/ru-rossija1/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="rossiya-hd" group-title="Channels",Россия HD
+http://epsilon-c1.liux.tv/ru-rossija-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="rtrpl" group-title="Channels",РТР Планета
+http://epsilon-c1.liux.tv/ru-rtr/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="tv3" group-title="Channels",ТВ 3
+http://epsilon-c1.liux.tv/ru-tv3/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ntv" group-title="Channels",НТВ
+http://epsilon-c1.liux.tv/ru-ntv/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ntvmir" group-title="Channels",НТВ Мир Балтия
+http://epsilon-c1.liux.tv/ru-ntv-balt/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ntv" group-title="Channels",НТВ HD
+http://epsilon-c1.liux.tv/ru-ntv-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="rentv" group-title="Channels",РЕН ТВ
+http://epsilon-c1.liux.tv/ru-rentv/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="rentv" group-title="Channels",РЕН ТВ HD
+http://epsilon-c1.liux.tv/ru-rentv-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ren_baltija" group-title="Channels",РЕН ТВ Baltic
+http://epsilon-c1.liux.tv/ru-rentv-balt/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="Channel9.il" group-title="Channels",9 Канал Израиль
+http://epsilon-c1.liux.tv/ru-9-kanal-izrail/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="sts" group-title="Channels",СТС
+http://epsilon-c1.liux.tv/ru-sts/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="sts-love" group-title="Channels",СТС Love
+http://epsilon-c1.liux.tv/ru-sts-love/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="sts-int" group-title="Channels",СТС Int
+http://epsilon-c1.liux.tv/ru-sts-int/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="tnt" group-title="Channels",ТНТ
+http://epsilon-c1.liux.tv/ru-tnt/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="tnt" group-title="Channels",ТНТ HD
+http://epsilon-c1.liux.tv/ru-tnt-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="tnt4" group-title="Channels",ТНТ 4
+http://epsilon-c1.liux.tv/ru-tnt-comedy/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="chetv" group-title="Channels",Че
+http://epsilon-c1.liux.tv/ru-perec/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="piter" group-title="Channels",Пятый Канал
+http://epsilon-c1.liux.tv/ru-tv5/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="pyatnica" group-title="Channels",Пятница
+http://epsilon-c1.liux.tv/ru-piatnica/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="komediya" group-title="Channels",Кинокомедия
+http://epsilon-c1.liux.tv/ru-komedija/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ntv-pravo" group-title="Channels",НТВ Право (Тест)
+http://epsilon-c1.liux.tv/ru-ntv-pravo/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="vesti" group-title="Channels",Россия 24
+http://epsilon-c1.liux.tv/ru-ros24/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="rbk" group-title="Channels",РБК
+http://epsilon-c1.liux.tv/ru-rbk/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="euro" group-title="Channels",EuroNews RU
+http://epsilon-c1.liux.tv/ru-euronews/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery HD RU
+http://epsilon-c1.liux.tv/ru-disc-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="discov_rus" group-title="Channels",Discovery RU
+http://epsilon-c1.liux.tv/ru-disc/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",DTX RU
+http://epsilon-c1.liux.tv/ru-disc-wrld/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="discov_sci" group-title="Channels",Discovery Science RU
+http://epsilon-c1.liux.tv/ru-disc-sc/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery HD ShowCase RU
+http://epsilon-c1.liux.tv/ru-disc-showcase-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",ID Xtra RU
+http://epsilon-c1.liux.tv/ru-disc-inv-x/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",Планета HD(IQ HD)
+http://epsilon-c1.liux.tv/ru-iq-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",National Geographic RU
+http://epsilon-c1.liux.tv/ru-natgeo/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="natgeo_hd" group-title="Channels",National Geographic HD RU
+http://epsilon-c1.liux.tv/ru-natgeo-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="galaxy" group-title="Channels",Galaxy
+http://epsilon-c1.liux.tv/ru-galaxy/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="natgeowild" group-title="Channels",Nat Geo WILD RU
+http://epsilon-c1.liux.tv/ru-natgeo-wild/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="wild-hd" group-title="Channels",Nat Geo WILD HD RU
+http://epsilon-c1.liux.tv/ru-natgeo-wild-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",TLC RU
+http://epsilon-c1.liux.tv/ru-tlc/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="tlc-russia-hd" group-title="Channels",TLC HD RU
+http://epsilon-c1.liux.tv/ru-tlc-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="animal_rus" group-title="Channels",Animal Planet RU
+http://epsilon-c1.liux.tv/ru-anim-pl/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="fauna" group-title="Channels",Фауна
+http://epsilon-c1.liux.tv/ru-fauna/index.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="explorer" group-title="Channels",Viasat Explorer
+http://epsilon-c1.liux.tv/ru-vs-expl/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="history" group-title="Channels",Viasat History
+http://epsilon-c1.liux.tv/ru-vs-hist/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="viasat-nature" group-title="Channels",Viasat Nature
+http://epsilon-c1.liux.tv/ru-vs-natu/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="HistoryHD.ru" group-title="Channels",History HD RU
+http://epsilon-c1.liux.tv/ru-history-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ocean" group-title="Channels",Ocean TV
+http://epsilon-c1.liux.tv/ru-ocean-tv/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="kto-est-kto" group-title="Channels",Кто есть Кто
+http://epsilon-c1.liux.tv/ru-kto-is-kto/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="24texno" group-title="Channels",24 Техно
+http://epsilon-c1.liux.tv/ru-24tech/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="24dok" group-title="Channels",24 Док
+http://epsilon-c1.liux.tv/ru-24doc/index.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="moya-planeta" group-title="Channels",Моя Планета
+http://epsilon-c1.liux.tv/ru-my-planet/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",Наука .0
+http://epsilon-c1.liux.tv/ru-nauka20/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="sov-sek" group-title="Channels",Совершенно Секретно
+http://epsilon-c1.liux.tv/ru-sov-sek/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="psihologiya21" group-title="Channels",Психология 21
+http://epsilon-c1.liux.tv/ru-psiho21/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="da_vinci-rus" group-title="Channels",Da Vinchi Learning
+http://epsilon-c1.liux.tv/ru-davinci-learn/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="tv1000" group-title="Channels",TV 1000
+http://epsilon-c1.liux.tv/ru-tv1000/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="tv1000-action" group-title="Channels",TV 1000 Action
+http://epsilon-c1.liux.tv/ru-tv1000-act/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="tv1000_rus" group-title="Channels",TV 1000 Русское Кино
+http://epsilon-c1.liux.tv/ru-tv1000-ru/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="tv1000-comedy-hd" group-title="Channels",TV 1000 Comedy HD
+http://epsilon-c1.liux.tv/ru-tv1000-com-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="tv1000-megahit-hd" group-title="Channels",TV 1000 Megahit HD
+http://epsilon-c1.liux.tv/ru-tv1000-meg-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="tv1000-premium-hd" group-title="Channels",TV 1000 Premium HD
+http://epsilon-c1.liux.tv/ru-tv1000-prm-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",Кинопремьера (HD Кино)
+http://epsilon-c1.liux.tv/ru-hd-kino/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="amedia-hd" group-title="Channels",AMedia Premium HD
+http://epsilon-c1.liux.tv/ru-amedia-prm-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="amedia1" group-title="Channels",A Media 1
+http://epsilon-c1.liux.tv/ru-amedia1/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="amedia2" group-title="Channels",A Media 2
+http://epsilon-c1.liux.tv/ru-amedia2/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="mgm-hd" group-title="Channels",MGM HD RU
+http://epsilon-c1.liux.tv/ru-mgm-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ostrsuszet-hd" group-title="Channels",Остросюжетное HD
+http://epsilon-c1.liux.tv/ru-ostrosiuz-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",1 Дом Кино Премиум HD
+http://epsilon-c1.liux.tv/ru-domkino-prem-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="nashe-hd" group-title="Channels",Наш Кинороман HD (Test)
+http://epsilon-c1.liux.tv/ru-nashe-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="semeinoe-hd" group-title="Channels",Наш Детектив HD (Test)
+http://epsilon-c1.liux.tv/ru-nash-detektiv-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="kinopokaz-hd1" group-title="Channels",Кинопоказ 1 HD (Test)
+http://epsilon-c1.liux.tv/ru-kinopokaz1-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="kinopokaz-hd2" group-title="Channels",Кинопоказ 2 HD (Test)
+http://epsilon-c1.liux.tv/ru-kinopokaz2-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="kinopremium-hd" group-title="Channels",Кинопремиум HD (Test)
+http://epsilon-c1.liux.tv/ru-kinopremium-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="strashnoe-hd" group-title="Channels",Страшное HD
+http://epsilon-c1.liux.tv/ru-strashnoe-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="nashe-lubimoe" group-title="Channels",Наше Любимое HD
+http://epsilon-c1.liux.tv/ru-nashe-liubimoe-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="kino-tv" group-title="Channels",Кино ТВ HD
+http://epsilon-c1.liux.tv/ru-kinotv/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="mir-seriala" group-title="Channels",Мир Сериала
+http://epsilon-c1.liux.tv/ru-mir-seriala/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="hd-kino" group-title="Channels",Киносемья
+http://epsilon-c1.liux.tv/ru-ntv-premjera/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ntv-kinoklub" group-title="Channels",Киносвидание
+http://epsilon-c1.liux.tv/ru-ntv-kinoklub/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="kino-plus" group-title="Channels",Киномикс
+http://epsilon-c1.liux.tv/ru-ntv-kinoplus/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ntv-nashekino" group-title="Channels",НТВ+ Наше кино
+http://epsilon-c1.liux.tv/ru-ntv-nashekino/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="kinohit" group-title="Channels",Кинохит
+http://epsilon-c1.liux.tv/ru-ntv-kinohit/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="paramount-comedy" group-title="Channels",Paramount Comedy RU
+http://epsilon-c1.liux.tv/ru-paramount/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="365dney" group-title="Channels",365 Дней
+http://epsilon-c1.liux.tv/ru-365days/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="puteshestviya" group-title="Channels",Телепутешествия
+http://epsilon-c1.liux.tv/ru-teleput/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="avto24" group-title="Channels",Авто 24
+http://epsilon-c1.liux.tv/ru-auto24/index.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",Travel RU
+http://epsilon-c1.liux.tv/ru-travel/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ohota-i-rybalka" group-title="Channels",Охота и Рыбалка
+http://epsilon-c1.liux.tv/ru-ohota-ryb/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ohotnik-i-rybolov" group-title="Channels",Охотник и Рыболов
+http://epsilon-c1.liux.tv/ru-ohotnik-ryb/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ohotnik-i-rybolov-hd" group-title="Channels",Охотник и Рыболов HD
+http://epsilon-c1.liux.tv/ru-ohotnik-ryb-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",CBS Reality RU
+http://epsilon-c1.liux.tv/ru-cbs-real/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="domashnie-zhivotnye" group-title="Channels",Домашние Животные
+http://epsilon-c1.liux.tv/ru-dom-zyv/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="oruszie" group-title="Channels",Оружие
+http://epsilon-c1.liux.tv/ru-oruzije/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="usadba" group-title="Channels",Усадьба
+http://epsilon-c1.liux.tv/ru-usadba/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="zdorovoe" group-title="Channels",Здоровое ТВ
+http://epsilon-c1.liux.tv/ru-zdorovoje/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="eda-hd" group-title="Channels",Еда HD
+http://epsilon-c1.liux.tv/ru-eda-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="lyubimoe-kino" group-title="Channels",Наше Любимое Кино
+http://epsilon-c1.liux.tv/ru-nashe-liub-kino/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="tdk" group-title="Channels",ТДК
+http://epsilon-c1.liux.tv/ru-tdk/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="rus-bestseller" group-title="Channels",Русский Бестселлер
+http://epsilon-c1.liux.tv/ru-rus-bestseller/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="rus-roman" group-title="Channels",Русский Роман
+http://epsilon-c1.liux.tv/ru-rus-roman/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="rus-detective" group-title="Channels",Русский Детектив
+http://epsilon-c1.liux.tv/ru-rus-detective/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="illuzion" group-title="Channels",Русский Иллюзион
+http://epsilon-c1.liux.tv/ru-rus-illuzion/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="russkij-extreme" group-title="Channels",Русский Экстрим
+http://epsilon-c1.liux.tv/ru-rus-extreame/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="komediya-vgtrk" group-title="Channels",Русская Комедия
+http://epsilon-c1.liux.tv/ru-rus-komedija/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",Zee TV RU
+http://epsilon-c1.liux.tv/ru-zee-tv/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="cctv" group-title="Channels",CCTV Русский
+http://epsilon-c1.liux.tv/ru-cctv/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="cnl" group-title="Channels",CNL
+http://epsilon-c1.liux.tv/ru-cnl/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="trofey" group-title="Channels",Трофей
+http://epsilon-c1.liux.tv/ru-trofey/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="mir" group-title="Channels",МИР
+http://epsilon-c1.liux.tv/ru-mir/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="mir-hd" group-title="Channels",Мир HD
+http://epsilon-c1.liux.tv/ru-mir-hd/index.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="lifenews" group-title="Channels",LifeNews
+http://epsilon-c1.liux.tv/ru-lifenews/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="nashe-novoe" group-title="Channels",Наше Новое Кино
+http://epsilon-c1.liux.tv/ru-ntv-nov-kino/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="evrokino" group-title="Channels",ЕвроКино
+http://epsilon-c1.liux.tv/ru-evrokino/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",Интересное ТВ
+http://epsilon-c1.liux.tv/ru-interestoe/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="sarafan" group-title="Channels",Сарафан
+http://epsilon-c1.liux.tv/ru-sarafan/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="istoria" group-title="Channels",История
+http://epsilon-c1.liux.tv/ru-istorija/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox RU
+http://epsilon-c1.liux.tv/ru-fox/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Life RU
+http://epsilon-c1.liux.tv/ru-fox-life/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="domkino" group-title="Channels",Дом Кино
+http://epsilon-c1.liux.tv/ru-dom-kino/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="home" group-title="Channels",Домашний
+http://epsilon-c1.liux.tv/ru-domashnij/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="zvezda" group-title="Channels",Звезда
+http://epsilon-c1.liux.tv/ru-zvezda/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sci Fi RU
+http://epsilon-c1.liux.tv/ru-sci-fi/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",AMC RU
+http://epsilon-c1.liux.tv/ru-amc/index.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="nstv" group-title="Channels",НСТ Страшное
+http://epsilon-c1.liux.tv/ru-nstv/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="mnogo-tv" group-title="Channels",Киносерия
+http://epsilon-c1.liux.tv/ru-mnogotv/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="indiya" group-title="Channels",Индийское Кино
+http://epsilon-c1.liux.tv/ru-indija/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="illuzion+" group-title="Channels",Иллюзион +
+http://epsilon-c1.liux.tv/ru-illuzion-plus/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="fenix+kino" group-title="Channels",Феникс + Кино
+http://epsilon-c1.liux.tv/ru-phenix/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="set" group-title="Channels",SONY HD RU
+http://epsilon-c1.liux.tv/ru-sony-hd/index.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",SET HD RU
+http://epsilon-c1.liux.tv/ru-set-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",SET RU
+http://epsilon-c1.liux.tv/ru-set/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",CBS Drama RU
+http://epsilon-c1.liux.tv/ru-cbs-drama/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="tv21" group-title="Channels",XXI
+http://epsilon-c1.liux.tv/ru-tv-21/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="esp" group-title="Channels",EuroSport RU
+http://epsilon-c1.liux.tv/ru-eurosport/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",EuroSport2 RU
+http://epsilon-c1.liux.tv/ru-eurosport2/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",EuroSport HD RU
+http://epsilon-c1.liux.tv/ru-eurosport-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="match" group-title="Channels",Матч!
+http://epsilon-c1.liux.tv/ru-match/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="match" group-title="Channels",Матч! HD
+http://epsilon-c1.liux.tv/ru-match-hd/index.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="avto-plus" group-title="Channels",Авто Плюс
+http://epsilon-c1.liux.tv/ru-autoplus/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="drive" group-title="Channels",Драйв
+http://epsilon-c1.liux.tv/ru-drajv/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="kxl" group-title="Channels",КХЛ
+http://epsilon-c1.liux.tv/ru-khl/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="kxl-hd" group-title="Channels",КХЛ HD
+http://epsilon-c1.liux.tv/ru-khl-hd/index.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="extreme-sports" group-title="Channels",Extreme Sports
+http://epsilon-c1.liux.tv/ru-extr-sport/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="sport1_rus" group-title="Channels",Матч! Арена
+http://epsilon-c1.liux.tv/ru-sport1/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="sport1_hd" group-title="Channels",Матч! Арена HD
+http://epsilon-c1.liux.tv/ru-sport1-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="sport2_rus" group-title="Channels",Матч! Игра
+http://epsilon-c1.liux.tv/ru-ntv-sport/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="hd-sport" group-title="Channels",Матч! Игра HD
+http://epsilon-c1.liux.tv/ru-hd-sport/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ntv-nashfootball" group-title="Channels",Наш Футбол
+http://epsilon-c1.liux.tv/ru-nash-fut/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ntv-nashfootball" group-title="Channels",Наш Футбол HD
+http://epsilon-c1.liux.tv/ru-nash-fut-hd/index.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ntv-football-1" group-title="Channels",Матч! Футбол 1
+http://epsilon-c1.liux.tv/ru-ntv-fut/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ntv-football-1" group-title="Channels",Матч! Футбол 1 HD
+http://epsilon-c1.liux.tv/ru-ntv-fut-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ntv-football-2" group-title="Channels",Матч! Футбол 2
+http://epsilon-c1.liux.tv/ru-ntv-fut2/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ntv-football-2" group-title="Channels",Матч! Футбол 2 HD
+http://epsilon-c1.liux.tv/ru-ntv-fut2-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ntv-football-3" group-title="Channels",Матч! Футбол 3
+http://epsilon-c1.liux.tv/ru-ntv-fut3/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ntv-football-3" group-title="Channels",Матч! Футбол 3 HD
+http://epsilon-c1.liux.tv/ru-ntv-fut3-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="sport-plus" group-title="Channels",Матч! Наш Спорт
+http://epsilon-c1.liux.tv/ru-ntv-sport-plus/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="setanta-sport" group-title="Channels",Setanta
+http://epsilon-c1.liux.tv/ru-setanta/index.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="setanta-sport" group-title="Channels",Setanta Sports HD
+http://epsilon-c1.liux.tv/ru-setanta-hd/index.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="boec" group-title="Channels",Боец
+http://epsilon-c1.liux.tv/ru-boec/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="boxtv" group-title="Channels",Бокс ТВ
+http://epsilon-c1.liux.tv/ru-bojc-klub/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="viasat-sport" group-title="Channels",Viasat Sport
+http://epsilon-c1.liux.tv/ru-vs-sport/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="viasat-sport" group-title="Channels",Viasat Sport HD
+http://epsilon-c1.liux.tv/ru-vs-sport-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="mat-i-ditya" group-title="Channels",Мама
+http://epsilon-c1.liux.tv/ru-mama/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="disney" group-title="Channels",Disney
+http://epsilon-c1.liux.tv/ru-disney/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="mult" group-title="Channels",Мульт
+http://epsilon-c1.liux.tv/ru-disney-xd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="tlum-hd" group-title="Channels",Тлум HD
+http://epsilon-c1.liux.tv/ru-tlum-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",Boomerang RU
+http://epsilon-c1.liux.tv/ru-boomerang/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="Channels",Nickelodeon RU
+http://epsilon-c1.liux.tv/ru-nick/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="NickJunior.uk" group-title="Channels",Nickelodeon Jr.
+http://epsilon-c1.liux.tv/ru-nick-jr/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="nickelod-hd" group-title="Channels",Nickelodeon HD
+http://epsilon-c1.liux.tv/ru-nick-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="cartoon" group-title="Channels",Cartoon Network RU
+http://epsilon-c1.liux.tv/ru-cartoon-net/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="tiji" group-title="Channels",TiJi
+http://epsilon-c1.liux.tv/ru-tiji/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="gulli" group-title="Channels",Gulli
+http://epsilon-c1.liux.tv/ru-gulli/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="baby-tv" group-title="Channels",Baby TV
+http://st.klp-isp.net:84/ru-babytv/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="detskiy" group-title="Channels",Детский
+http://epsilon-c1.liux.tv/ru-detskij/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="multimania" group-title="Channels",Мультимания
+http://epsilon-c1.liux.tv/ru-multimanija/index.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="karusel" group-title="Channels",Карусель
+http://epsilon-c1.liux.tv/ru-karusel/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="Kidzone.blt" group-title="Channels",KidZone
+http://epsilon-c1.liux.tv/ru-kidzone/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="2x2" group-title="Channels",2x2
+http://epsilon-c1.liux.tv/ru-2x2/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ani" group-title="Channels",Ani
+http://epsilon-c1.liux.tv/ru-ani/index.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="SmileTV.gr" group-title="Channels",Smile TV
+http://epsilon-c1.liux.tv/ru-smile/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="tnt-music" group-title="Channels",ТНТ Music
+http://epsilon-c1.liux.tv/ru-tnt-music/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="europa-plus" group-title="Channels",Европа +
+http://epsilon-c1.liux.tv/ru-europa-plus/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="rutv" group-title="Channels",RU TV
+http://epsilon-c1.liux.tv/ru-rutv/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",Vh1 RU
+http://epsilon-c1.liux.tv/ru-vh1/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="eumusic" group-title="Channels",RU Music
+http://epsilon-c1.liux.tv/ru-rumusic/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="muzika1" group-title="Channels",Музыка Первого
+http://epsilon-c1.liux.tv/ru-muz-perv/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",Первый музыкальный канал
+http://epsilon-c1.liux.tv/ru-perv-muz-kanal/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="1hdru" group-title="Channels",Первый Музыкальный HD
+http://epsilon-c1.liux.tv/ru-pervyj-muz-hd/index.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="shansontv" group-title="Channels",Шансон
+http://epsilon-c1.liux.tv/ru-shanson/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="tnt-music" group-title="Channels",A One
+http://epsilon-c1.liux.tv/ru-a-one/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="mezzo" group-title="Channels",Mezzo
+http://epsilon-c1.liux.tv/ru-mezzo/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="lya-minor" group-title="Channels",Ля Минор
+http://epsilon-c1.liux.tv/ru-laminor/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="mtv-hits" group-title="Channels",MTV Hits RU
+http://epsilon-c1.liux.tv/ru-mtv-hits/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="mtv-rus" group-title="Channels",MTV Россия HD
+http://epsilon-c1.liux.tv/ru-mtv-russia-hd/index.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="dozhd" group-title="Channels",Дождь
+http://epsilon-c1.liux.tv/ru-dozd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="muztv" group-title="Channels",Ю ТВ
+http://epsilon-c1.liux.tv/ru-utv/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="rtvint" group-title="Channels",RTVi
+http://epsilon-c1.liux.tv/ru-rtvi/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="tvcen" group-title="Channels",ТВЦ
+http://epsilon-c1.liux.tv/ru-tvc/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="tvcint" group-title="Channels",ТВЦi
+http://epsilon-c1.liux.tv/ru-tvci/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="tvrus" group-title="Channels",TVRus
+http://epsilon-c1.liux.tv/ru-tvrus/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",Мир Увлечений
+http://epsilon-c1.liux.tv/ru-mir-uvlecenij/index.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="fashion" group-title="Channels",Fashion
+http://epsilon-c1.liux.tv/ru-fashion/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="kuhnya" group-title="Channels",Кухня
+http://epsilon-c1.liux.tv/ru-kuhnia/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",1 Телекафе
+http://epsilon-c1.liux.tv/ru-telecafe/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="kultura" group-title="Channels",Россия К
+http://epsilon-c1.liux.tv/ru-ross-k/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="park-razvlecheniy" group-title="Channels",Парк Развлечений
+http://epsilon-c1.liux.tv/ru-park-razvl/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="voprosy-i-otvety" group-title="Channels",Вопросы и Ответы
+http://epsilon-c1.liux.tv/ru-vopr-otv/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="nostalgia" group-title="Channels",Ностальгия
+http://epsilon-c1.liux.tv/ru-nostalgija/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="otr" group-title="Channels",ОТР
+http://epsilon-c1.liux.tv/ru-otr/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="retro" group-title="Channels",Ретро
+http://epsilon-c1.liux.tv/ru-retro/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="zhivi" group-title="Channels",Живи!
+http://epsilon-c1.liux.tv/ru-zhivi/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",1 Время
+http://epsilon-c1.liux.tv/ru-1-vremya/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="soyuz" group-title="Channels",Союз
+http://epsilon-c1.liux.tv/ru-sojuz/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="tbn" group-title="Channels",ТБН
+http://epsilon-c1.liux.tv/ru-tbn/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="rtg-hd" group-title="Channels",Russian Travel Guide HD
+http://epsilon-c1.liux.tv/ru-rtg-hd/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="lnk-lt" group-title="Channels",LNK
+http://epsilon-c1.liux.tv/lt-lnk/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="tv3-lt" group-title="Channels",TV3 LT
+http://epsilon-c1.liux.tv/lt-tv3/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="balt-auks" group-title="Channels",Balticum Auksinis
+http://epsilon-c1.liux.tv/lt-balt-auks/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="balt-tv" group-title="Channels",Balticum
+http://epsilon-c1.liux.tv/lt-balticum/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="balt-plat-lt" group-title="Channels",Balticum Platinum
+http://epsilon-c1.liux.tv/lt-balt-plat/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="tv6-lat" group-title="Channels",TV6
+http://epsilon-c1.liux.tv/lt-tv6/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="tv8-lt" group-title="Channels",TV8
+http://epsilon-c1.liux.tv/lt-tv8/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="rytas-lt" group-title="Channels",Lietuvos Rytas
+http://epsilon-c1.liux.tv/lt-rytas/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="tv1-lt" group-title="Channels",TV1
+http://epsilon-c1.liux.tv/lt-tv1/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="baltijos-lt" group-title="Channels",BTV
+http://epsilon-c1.liux.tv/lt-btv/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="lrt" group-title="Channels",LRT Televizija
+http://epsilon-c1.liux.tv/lt-lrt/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="lrtkult" group-title="Channels",LRT Kultura
+http://epsilon-c1.liux.tv/lt-lrttv/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="info-tv" group-title="Channels",Info TV
+http://epsilon-c1.liux.tv/lt-info/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="liuks" group-title="Channels",Liuks
+http://epsilon-c1.liux.tv/lt-liuks/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport1 TV
+http://epsilon-c1.liux.tv/lt-sport1/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="viasat_sport_baltic" group-title="Channels",Viasat Sport Baltic LT
+http://epsilon-c1.liux.tv/lt-vs-sport-balt/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV 1000 Premium LT
+http://epsilon-c1.liux.tv/lt-tv1000-prm/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="lnt-lat" group-title="Channels",LNT
+http://epsilon-c1.liux.tv/lv-lnt/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="tv3-lat" group-title="Channels",TV3 Latvija
+http://epsilon-c1.liux.tv/lv-tv3/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="tv6-lat" group-title="Channels",TV6 Latvija
+http://epsilon-c1.liux.tv/lv-tv6/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ltv1-lat" group-title="Channels",LTV1
+http://epsilon-c1.liux.tv/lv-ltv1/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ltv7-lat" group-title="Channels",LTV7
+http://epsilon-c1.liux.tv/lv-ltv7/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="kanals_2" group-title="Channels",Kanals 2
+http://epsilon-c1.liux.tv/lv-kanals2/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="3_plus" group-title="Channels",3+
+http://epsilon-c1.liux.tv/lv-3plus/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="viasat_sport_baltic" group-title="Channels",Viasat Sport Baltic LV
+http://epsilon-c1.liux.tv/lv-vs-sport-balt/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="novkan" group-title="Channels",Новый Канал
+http://epsilon-c1.liux.tv/ua-nov-kan/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ictv" group-title="Channels",ICTV
+http://epsilon-c1.liux.tv/ua-ictv/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="stb" group-title="Channels",СТБ
+http://epsilon-c1.liux.tv/ua-stb/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="trk-ukraina" group-title="Channels",Канал Украина
+http://epsilon-c1.liux.tv/ua-ukr/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="5kanal" group-title="Channels",5 канал (Украина)
+http://epsilon-c1.liux.tv/ua-5kanal/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="tet" group-title="Channels",ТЕТ
+http://epsilon-c1.liux.tv/ua-tet/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="inter" group-title="Channels",Inter
+http://epsilon-c1.liux.tv/ua-inter/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="enter-film" group-title="Channels",Enter Film
+http://epsilon-c1.liux.tv/ua-inter-film/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="espreso" group-title="Channels",Еспресо ТВ
+http://epsilon-c1.liux.tv/ua-espreso/index.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="1p1" group-title="Channels",1+1
+http://epsilon-c1.liux.tv/ua-1plus1/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="2p2" group-title="Channels",2+2
+http://epsilon-c1.liux.tv/ua-2plus2/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ntn" group-title="Channels",НТН
+http://epsilon-c1.liux.tv/ua-ntn/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="mega" group-title="Channels",Мега
+http://epsilon-c1.liux.tv/ua-mega/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="k1" group-title="Channels",K1
+http://epsilon-c1.liux.tv/ua-k1/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="k2" group-title="Channels",K2
+http://epsilon-c1.liux.tv/ua-k2/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="m-1" group-title="Channels",M1
+http://epsilon-c1.liux.tv/ua-m1/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="m-2" group-title="Channels",M2
+http://epsilon-c1.liux.tv/ua-m2/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",1 Автомобильный
+http://epsilon-c1.liux.tv/ua-1avto/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="112ukr" group-title="Channels",112
+http://epsilon-c1.liux.tv/ua-112/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="futbol-ukr" group-title="Channels",Футбол 1
+http://epsilon-c1.liux.tv/ua-fut1/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="futbol-ukr" group-title="Channels",Футбол 1 HD
+http://epsilon-c1.liux.tv/ua-fut1-hd/index.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="futbol-plus" group-title="Channels",Футбол 2 Укр
+http://epsilon-c1.liux.tv/ua-fut2/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="futbol-plus" group-title="Channels",Футбол 2 HD
+http://epsilon-c1.liux.tv/ua-fut2-hd/index.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="o-tv" group-title="Channels",OTV Music
+http://epsilon-c1.liux.tv/ua-otv/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="pixel" group-title="Channels",Пиксель ТВ
+http://epsilon-c1.liux.tv/ua-piksel/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="plusplus" group-title="Channels",Плюс Плюс
+http://epsilon-c1.liux.tv/ua-plusplus/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",Спорт Укр
+http://epsilon-c1.liux.tv/ua-sport/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",ТВi
+http://epsilon-c1.liux.tv/ua-tbi/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="1ukraine" group-title="Channels",Перший Ukraine
+http://epsilon-c1.liux.tv/ua-pershij/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="zoom" group-title="Channels",Zoom
+http://epsilon-c1.liux.tv/ua-zoom/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="pro-tv" group-title="Channels",Pro TV
+http://epsilon-c2.liux.tv/md-pro-tv/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="jurnal" group-title="Channels",Jurnal TV
+http://epsilon-c2.liux.tv/md-jurnal-tv/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="publika" group-title="Channels",Publika TV
+http://epsilon-c2.liux.tv/md-publika-tv/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="moldova1" group-title="Channels",Молдова 1
+http://epsilon-c2.liux.tv/md-moldova1/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",Молдова 2
+http://epsilon-c2.liux.tv/md-moldova2/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",Первый Prime
+http://epsilon-c2.liux.tv/md-prime/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="Canal2.mx" group-title="Channels",Canal 2
+http://epsilon-c2.liux.tv/md-canal2/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 3
+http://epsilon-c2.liux.tv/md-canal3/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="n4" group-title="Channels",N4
+http://epsilon-c2.liux.tv/md-n4md/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",O La La
+http://epsilon-c1.liux.tv/adl-o-lia-lia/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",LTV X Art 1
+http://epsilon-c1.liux.tv/adl-x-art1/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="ext" group-title="Channels",LTV X Art 2
+http://epsilon-c1.liux.tv/adl-x-art2/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="russkaya-noch" group-title="Channels",Russian Night
+http://epsilon-c1.liux.tv/adl-russ-night/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+#EXTINF:0 tvg-id="SkySpBoxOff.uk" group-title="Channels",Sky Sports Box Office
+http://epsilon-c2.liux.tv/en-SkyBox-PPV/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
+
